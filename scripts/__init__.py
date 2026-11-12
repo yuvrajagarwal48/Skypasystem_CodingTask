@@ -1,0 +1,4 @@
+"""
+Scripts package initialization.
+"""
+
